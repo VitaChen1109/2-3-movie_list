@@ -1,6 +1,4 @@
 # 電影清單 1.0
-![Index page about Restaurant List](./public/image/restaurant_list.png)
-
 使用 Node.js 與 Express 建立的電影清單，可用關鍵字搜尋和查閱電影資料
 
 ## 功能列表
